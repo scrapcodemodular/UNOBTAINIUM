@@ -5,7 +5,7 @@
 
 https://www.scrapcode.co.uk
 
-This repository contains the Gerber files needed to manufacture UNOBTAINIUM, and is primarily provided for those residing in areas where Scrapcode Modular cannot currently ship (USA and Canada).
+This repository contains the Gerber files needed to manufacture UNOBTAINIUM.
 
 For more information please feel free to get in touch at info@scrapcode.co.uk
 
